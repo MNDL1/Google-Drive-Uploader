@@ -32,7 +32,7 @@ HELP = """   <b>AUTHORISE BOT</b>
             
             + More On Its way:)
                 
-Bug Report @aryanvikash
+Bug Report @pmndl
         """
 DP_DOWNLOAD = "Dropbox Link !! Downloading Started ..."
 OL_DOWNLOAD = "Openload Link !! Downloading Started ... \n Openload Links Are Extremely Slow"
@@ -49,7 +49,7 @@ AUTH_URL = '<a href ="{}">Vist This Url</a> \n Generate And Copy Your Google Dri
 UPLOADING = "Download Complete !! \n Uploading Your file"
 REVOKE_TOK = " Your Token is Revoked Successfully !! \n\n Use /auth To Re-Authorise Your Drive Acc. "
 # DOWN_PATH = "Downloads\\" #windows path
-DOWN_PATH = "Downloads/"  # Linux path
+DOWN_PATH = "/Downloads/"  # Linux path
 DOWNLOAD_URL = "Your File Uploaded Successfully \n\n <b>Filename</b> : {} \n\n <b> Size</b> : {} MB \n\n <b>Download</b> {}"
 AUTH_ERROR = "AUTH Error !! Please  Send Me a  valid Token or Re - Authorise Me  \n\n report At @pmndl"
 OPENLOAD = True
